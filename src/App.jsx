@@ -78,8 +78,9 @@ export default function App() {
       <header className="header">
         <div className="container header-inner">
           <div className="brand">
-            <div className="brand-mark"><span className="brand-mark-text"><img src="/logo-daniely.jpg" alt="Logo Daniely" className="brand-mark-logo" /></span><img src="/logo-daniely.jpg" alt="Logo Daniely Meléndez" className="brand-mark-logo" /></div>
-            <div>
+            <div className="brand-mark">
+  <img src="/logo-daniely.jpg" alt="Logo Daniely Meléndez" className="brand-mark-logo" />
+</div>
               <p className="brand-name">Daniely Meléndez</p>
               <p className="brand-subtitle">Arquitectura Financiera</p>
             </div>
