@@ -144,3 +144,12 @@ img { max-width: 100%; display: block; }
   .cta-box { padding: 28px 18px; border-radius: 28px; text-align: center; }
   .contact-card { padding: 16px; }
 }
+@media (min-width: 641px) {
+  .brand-mark-logo {
+    width: 115%;
+    height: 115%;
+    object-fit: cover;
+    object-position: center 34%;
+    transform: translateY(-4px);
+  }
+}
