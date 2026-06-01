@@ -37,9 +37,9 @@ img { max-width: 100%; display: block; }
   display: grid; place-items: center;
   border: 1px solid rgba(214,177,95,0.55);
   background: transparent;
-  overflow: hidden;
+  overflow: visible;
 }
-.brand-mark-logo { display: block; width: 100%; height: 100%; object-fit: cover; }
+.brand-mark-logo { display: block; width: 100%; height: 100%; object-fit: contain; }
 
 .brand-name { margin: 0; font-weight: 750; font-size: 18px; letter-spacing: .02em; }
 .brand-subtitle { margin: 2px 0 0; font-size: 11px; color: var(--gold-dark); text-transform: uppercase; letter-spacing: .24em; }
