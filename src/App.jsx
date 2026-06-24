@@ -16,7 +16,7 @@ import {
 } from 'lucide-react';
 
 export default function App() {
-  const calendlyUrl = 'https://calendly.com/orientacionfinanciera/puertorico';
+  const calendlyUrl = 'https://calendly.com/orientacionfinanciera';
   const phoneNumber = '17876342731';
   const email = 'info@danielymelendez.com';
 
