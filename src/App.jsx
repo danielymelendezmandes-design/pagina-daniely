@@ -249,7 +249,7 @@ export default function App() {
   <p>Daniely Meléndez · Arquitectura Financiera</p>
   <span>INTEGRIDAD · ESTRATEGIA · RESULTADOS</span>
   <span>© 2026 · Todos los derechos reservados.</span>
-  <span>{email}</span>
+ 
 </footer>
 
       </footer>
