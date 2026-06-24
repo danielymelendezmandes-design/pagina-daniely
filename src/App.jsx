@@ -182,7 +182,7 @@ export default function App() {
               <p>Profesional en Asesoría Financiera con una sólida formación y una trayectoria de más de una década en la industria de seguros.</p>
               <p>Obtuve un Bachillerato en Administración de Empresas concentración en Mercadeo de la Universidad de Puerto Rico, donde también cursé estudios en finanzas, contabilidad y economía, adquiriendo una base fundamental para el análisis y gestión financiera.</p>
               <p>Licenciada como Representante Autorizada por el Comisionado de Seguros de Puerto Rico en las líneas de Salud, Vida e Incapacidad.</p>
-              <p>Estoy certificada como CPFC & CCFP (Certified Personal Financial Coach), para orientar sobre organización económica, educación financiera y desarrollo de estrategias.</p>
+              <p>Estoy certificada como CPFC & CCFP que son credenciales profesionales enfocadas para brindar consejería financiera y desarrollo de estrategias.</p>
               <p>Además, soy Corredora de Bienes Raíces que me permite integrar una visión más amplia sobre la creación de patrimonio y las oportunidades de inversión.</p>
               <p>Ofrezco asesoría a dueños de negocios, individuos y familias para la protección de su bienestar económico.</p>
             </div>
