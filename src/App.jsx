@@ -252,9 +252,9 @@ export default function App() {
 </footer>
 
  
-</footer>
 
-      </footer>
+
+    
     </div>
   );
 }
